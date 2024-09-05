@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-882aa062c7dc6c4a7a9e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "json",
+					"jsonFile" : "directory-json-Debug-2f46b448dd35ba75d9e5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "json"
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "WeChat-Imitate-Server",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "nlohmann_json",
+					"parentIndex" : 0
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "WeChat-Imitate-Server::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-WeChat-Imitate-Server-Debug-ec43839c97ab7fa4dc32.json",
+					"name" : "WeChat-Imitate-Server",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Server/build/Desktop_Qt_6_7_1-Debug",
+		"source" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Server"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

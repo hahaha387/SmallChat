@@ -1,0 +1,41 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/WeChat-Imitate-Server.dir/controllerfactory.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/controllerfactory.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/friendcontroller.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/friendcontroller.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/initcontroller.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/initcontroller.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/main.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/main.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/message.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/message.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messagebroker.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messagebroker.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messagecontroller.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messagecontroller.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messageproxy.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/messageproxy.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/network.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/network.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/pushcontroller.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/pushcontroller.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/relationalbroker.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/relationalbroker.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/server.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/server.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/task.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/task.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/user.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/user.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/userbroker.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/userbroker.cpp.o.d"
+  "CMakeFiles/WeChat-Imitate-Server.dir/userproxy.cpp.o"
+  "CMakeFiles/WeChat-Imitate-Server.dir/userproxy.cpp.o.d"
+  "WeChat-Imitate-Server"
+  "WeChat-Imitate-Server.pdb"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/WeChat-Imitate-Server.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

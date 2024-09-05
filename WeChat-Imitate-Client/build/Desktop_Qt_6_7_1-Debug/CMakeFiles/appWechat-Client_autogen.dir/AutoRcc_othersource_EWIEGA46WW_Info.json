@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug/appWechat-Client_autogen",
+	"CMAKE_BINARY_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client",
+	"CMAKE_SOURCE_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug/appWechat-Client_autogen/include",
+	"INPUTS" : 
+	[
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/gradlew",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/gradlew.bat",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/gradle.properties",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/AndroidManifest.xml",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/build.gradle",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/gradle/wrapper/gradle-wrapper.jar",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/gradle/wrapper/gradle-wrapper.properties",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/res/xml/qtprovider_paths.xml",
+		"/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/android/res/values/libs.xml"
+	],
+	"LOCK_FILE" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/appWechat-Client_autogen.dir/AutoRcc_othersource_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "othersource" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_othersource.cpp",
+	"RCC_EXECUTABLE" : "/opt/Qt/6.7.1/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug/CMakeFiles/appWechat-Client_autogen.dir/AutoRcc_othersource_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/run/media/root/study/\u4eff\u5fae\u4fe1\u9879\u76ee/\u4eff\u5fae\u4fe1/code/WeChat-Imitate-Client/othersource.qrc",
+	"USE_BETTER_GRAPH" : false,
+	"VERBOSITY" : 0
+}

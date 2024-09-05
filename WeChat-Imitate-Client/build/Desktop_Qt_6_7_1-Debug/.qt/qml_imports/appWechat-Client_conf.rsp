@@ -1,0 +1,9 @@
+-rootPath
+/run/media/root/study/仿微信项目/仿微信/code/WeChat-Imitate-Client
+-cmake-output
+-output-file
+/run/media/root/study/仿微信项目/仿微信/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug/.qt/qml_imports/appWechat-Client_conf.cmake
+-importPath
+/run/media/root/study/仿微信项目/仿微信/code/WeChat-Imitate-Client/build/Desktop_Qt_6_7_1-Debug
+-importPath
+/opt/Qt/6.7.1/gcc_64/./qml

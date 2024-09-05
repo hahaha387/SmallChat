@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+800fe1e7158f6d1fe1b321c3ba5ed3d0 .qt/qml_imports/appWechat-Client_build.cmake
+99e67ef9181421ab3a9e237a1b8bfd5e CMakeFiles/appWechat-Client_autogen
+99e67ef9181421ab3a9e237a1b8bfd5e CMakeFiles/appWechat-Client_qmlimportscan
+1ff934975dd64ca5b13d3cc042276290 appWechat-Client_autogen/EWIEGA46WW/qrc_assets.cpp
+8d4a0fdb8588107b5c25d31859b89be0 appWechat-Client_autogen/EWIEGA46WW/qrc_othersource.cpp
+840639d01230d0442ab93d8e633d468d appWechat-Client_autogen/EWIEGA46WW/qrc_qml.cpp
+1fa353a5485db0aa1524b09981d4ce99 appWechat-Client_autogen/timestamp
